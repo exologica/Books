@@ -1,5 +1,5 @@
 # Books
-An example of some best powershell best practices to get some records with a specific scope from an API.
+An example of some powershell best practices to get some records with a specific scope from an API.
 
 This repository demonstrates how to organize a module and accomplish a few common tasks like public vs private functions, unit tests, and a simple Azure DevOps pipeline integration.
 
